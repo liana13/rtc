@@ -1,0 +1,16 @@
+{
+  "name": "vostan.rtc",
+  "version": "1.0.0",
+  "description": "WebRTC project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Liana, David",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.7",
+    "socket.io": "^1.4.5"
+  }
+}
